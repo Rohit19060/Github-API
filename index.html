@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Github API</title>
+    <link rel="shortcut icon" href="https://kingtechnologies.in/assests/images/logo.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Github API</h1>
+        <form>
+            <div class="inputDiv">
+                <label for="handle">User</label>
+                <input type="text" name="handle" id="handle" required>
+            </div>
+            <div class="inputDiv">
+                <label for="max-results">Maximum Repo to return</label>
+                <input type="number" name="max-results" id="max-results" value="100">
+            </div>
+            <input type="submit" value="Search">
+        </form>
+        <p id="error-message" class="error-message"></p>
+        <section id="results" class="hidden">
+            <h2>Repositories</h2>
+            <ul id="results-list">
+            </ul>
+        </section>
+    </div>
+    <script src="./jquery.js"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>

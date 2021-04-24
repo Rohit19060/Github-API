@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    max-width: 600px;
+    margin: 10% auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: -1px -1px 12px 5px rgba(232, 232, 232, 1);
+}
+
+.inputDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 70px;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+input[type="text"],
+input[type="number"] {
+    padding: 5px;
+}
+
+input[type="submit"] {
+    padding: 5px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    box-shadow: -1px -1px 12px 3px rgba(232, 232, 232, 1);
+    font-size: 15px;
+}
+
+input[type="submit"]:hover {
+    background-color: black;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+.error-message {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+    color: black;
+    }
+
+    a:hover {
+        color: rgb(0, 162, 255);
+}
