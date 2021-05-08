@@ -127,4 +127,4 @@ It is a very simple web app, you just need to run the `index.html` file on your 
 <a href="https://ko-fi.com/rohitjain" target="_blank" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a>
 </p>
 
-<p align="center">Made with Python & ❤️ in India</p>
+<p align="center">Made with JavaScript & ❤️ in India</p>
