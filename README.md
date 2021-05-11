@@ -1,36 +1,36 @@
 <p align="center">
-  <a href="https://github.com/rohit19060/Github-API" title="Github API">
-    <img src="https://kingtechnologies.in/assets/images/logo.png" width="80px" alt="Github API" />
+  <a href="https://rohit19060.github.io/Github-API/" title="Github API">
+    <img src="https://kingtechnologies.in/assets/images/logo.png" width="80px" alt="Github API"/>
   </a>
 </p>
 <h1 align="center">🌟 Github API 🌟</h1>
 <p align="center">App to get all the repo of any user just by their Github username</p>
 
 <p align="center">
-<a href="https://github.com/rohit19060/Github-API/blob/master/LICENSE" target="_blank" title="License">
-<img src="https://img.shields.io/github/license/rohit19060/Github-API?label=License&logo=Github&style=flat-square" alt="Github API License" />
+<a href="https://github.com/rohit19060/Github-API/blob/master/LICENSE" title="License">
+<img src="https://img.shields.io/github/license/rohit19060/Github-API?label=License&logo=Github&style=flat-square" alt="Github API License"/>
 </a>
-<a href="https://github.com/rohit19060/Github-API/fork" target="_blank" title="Forks">
+<a href="https://github.com/rohit19060/Github-API/fork" title="Forks">
 <img src="https://img.shields.io/github/forks/rohit19060/Github-API?label=Forks&logo=Github&style=flat-square" alt="Github API Forks"/>
 </a>
-<a href="https://github.com/rohit19060/Github-API/stargazers" target="_blank" title="Stars">
+<a href="https://github.com/rohit19060/Github-API/stargazers" title="Stars">
 <img src="https://img.shields.io/github/stars/rohit19060/Github-API?label=Stars&logo=Github&style=flat-square" alt="Github API Stars"/>
 </a>
-<a href="https://github.com/rohit19060/Github-API/issues" target="_blank" title="Issues">
+<a href="https://github.com/rohit19060/Github-API/issues" title="Issues">
 <img src="https://img.shields.io/github/issues/rohit19060/Github-API?label=Issues&logo=Github&style=flat-square" alt="Github API Issues"/>
 </a>
-<a href="https://github.com/rohit19060/Github-API/pulls" target="_blank" title="Pull Requests">
+<a href="https://github.com/rohit19060/Github-API/pulls" title="Pull Requests">
 <img src="https://img.shields.io/github/issues-pr/rohit19060/Github-API?label=Pull%20Requests&logo=Github&style=flat-square" alt="Github API Pull Requests"/>
 </a>
-<a href="https://github.com/rohit19060/Github-API" target="_blank" title="Repo Size">
+<a href="https://github.com/rohit19060/Github-API" title="Repo Size">
 <img src="https://img.shields.io/github/repo-size/rohit19060/Github-API?label=Repo%20Size&logo=Github&style=flat-square" alt="Github API Repo Size"/>
 </a>
-<a href="https://discord.gg/sDDHTPs97M" target="_blank" title="Join Community">
+<a href="https://discord.gg/sDDHTPs97M" title="Join Community">
 <img src="https://img.shields.io/discord/737854816402800690?color=%236d82cb&label=Join%20Community&logo=discord&logoColor=%23FFFFFF&style=flat-square" alt="Join discord community for Github API"/>
 </a>
 </p>
 
-<p align="center" title="Github API gif"><img src="./assets/images/main.gif" alt="Github API gif" /></p>
+<p align="center" title="Github API"><img src="./assets/images/main.gif" alt="Github API"/></p>
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
@@ -93,13 +93,13 @@ It is a very simple web app, you just need to run the `index.html` file on your 
 
 ## 📂 Directory Structure
 
-- `index.html` Main entry point of application
+> [`index.html`](https://github.com/Rohit19060/Github-API/blob/main/index.htm "Github API"): Main entry point of application
 
-- `style.css` Contains all the styles of the app
+> [`style.css`](https://github.com/Rohit19060/Github-API/blob/main/style.css "Style"): Contains all the styles of the app
 
-- `script.js` Contains all the script to make the request and get a response
+> [`script.js`](https://github.com/Rohit19060/Github-API/blob/main/script.js "Script"): Contains all the script to make the request and get a response
 
-- `jquery.js` To make things easier we are using jquery
+> [`jquery.js`](https://github.com/Rohit19060/Github-API/blob/main/jquery.js "jQuery"): To make things easier we are using jquery
 
 ## 🎊 Future Updates
 
@@ -109,7 +109,7 @@ It is a very simple web app, you just need to run the `index.html` file on your 
 
 **Rohit Jain**
 
-- 🌌 [Profile](https://github.com/rohit19060 "Rohit Jain")
+- 🌌 [Profile](https://github.com/Rohit19060 "Rohit Jain")
 
 - 🏮 [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Github%20API "Hi!")
 
@@ -117,14 +117,14 @@ It is a very simple web app, you just need to run the `index.html` file on your 
 
 <h2 align="center">🤝 Support</h2>
 
-<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow">GitHub flow</a>), 🔥 issues and 🥮 feature requests are most welcome!</h3>
+<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</h3>
 
 <h3 align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</h3>
 <h3 align="center">💰 Donations Links</h3>
 <p align="center">
-<a href="https://www.paypal.me/kingrohitJ" target="_blank" title="PayPal"><img src="https://kingtechnologies.in/assets/images/paypal.png" alt="PayPal"/>
-<a href="https://www.buymeacoffee.com/rohitjain" target="Buy me a Coffee/" title="PayPal"><img src="https://kingtechnologies.in/assets/images/coffee.png" alt="Buy me a Coffee"/>
-<a href="https://ko-fi.com/rohitjain" target="_blank" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a>
+<a href="https://www.paypal.me/kingrohitJ" title="PayPal"><img src="https://kingtechnologies.in/assets/images/paypal.png" alt="PayPal"/></a>
+<a href="https://www.buymeacoffee.com/rohitjain" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/coffee.png" alt="Buy me a Coffee"/></a>
+<a href="https://ko-fi.com/rohitjain" title="Ko-fi"><img src="https://kingtechnologies.in/assets/images/kofi.png" alt="Ko-fi"/></a></a>
 </p>
 
 <p align="center">Made with JavaScript & ❤️ in India</p>
