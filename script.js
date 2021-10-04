@@ -8,7 +8,7 @@ const formatQueryParams = (params) => {
     (key) => `${encodeURIComponent(key)}=${encodeURIComponent(params[key])}`
   );
   return queryItems.join("&");
-}
+};
 
 const displayResults = (responseJson, maxResults) => {
   console.log(responseJson);
@@ -22,7 +22,7 @@ const displayResults = (responseJson, maxResults) => {
     );
   }
   $("#results").removeClass("hidden");
-}
+};
 
 const getRepo = (handle, maxResults = 100) => {
   const params = {
@@ -47,7 +47,7 @@ const getRepo = (handle, maxResults = 100) => {
     .catch((err) => {
       $("#error-message").text(`Something went wrong: ${err.message}`);
     });
-}
+};
 
 const watchForm = () => {
   $("form").submit((e) => {
@@ -56,6 +56,6 @@ const watchForm = () => {
     const maxResults = $("#max-results").val();
     getRepo(handle, maxResults);
   });
-}
+};
 
 $(watchForm);
