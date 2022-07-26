@@ -5,9 +5,12 @@ const formatQueryParams = (params) => {
   return queryItems.join("&");
 };
 
+
+
+
 const displayResults = (responseJson, maxResults) => {
   $("#results-list").empty();
-  for (let i = 0; (i < responseJson.length) & (i < maxResults); i++) {
+  for (let i = 0; (i < responseJson.length) && (i < maxResults); i++) {
     $("#results-list").append(
       `<li>
       <h3><a href="${responseJson[i].html_url}" target="_blank" title="${responseJson[i].name}">${responseJson[i].name}</a></h3>
